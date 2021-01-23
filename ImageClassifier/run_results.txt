@@ -1,0 +1,918 @@
+Image flowers/test/1/image_06743.jpg of a 'pink primrose' is predicted as follows
+Most probably: watercress
+Prediction is incorrect
+Probability  :  Flower
+25.835 : watercress
+17.299 : pink primrose
+11.057 : mallow
+8.095 : petunia
+3.497 : hibiscus
+Image flowers/test/2/image_05100.jpg of a 'hard-leaved pocket orchid' is predicted as follows
+Most probably: hard-leaved pocket orchid
+Prediction is correct
+Probability  :  Flower
+100.000 : hard-leaved pocket orchid
+0.000 : spring crocus
+0.000 : wild pansy
+0.000 : lotus lotus
+0.000 : hippeastrum
+Image flowers/test/3/image_06634.jpg of a 'canterbury bells' is predicted as follows
+Most probably: magnolia
+Prediction is incorrect
+Probability  :  Flower
+8.201 : magnolia
+6.400 : snapdragon
+6.394 : sweet pea
+5.532 : foxglove
+4.820 : bougainvillea
+Image flowers/test/4/image_05636.jpg of a 'sweet pea' is predicted as follows
+Most probably: azalea
+Prediction is incorrect
+Probability  :  Flower
+43.826 : azalea
+38.921 : sword lily
+9.442 : sweet pea
+1.295 : petunia
+1.266 : snapdragon
+Image flowers/test/5/image_05159.jpg of a 'english marigold' is predicted as follows
+Most probably: barbeton daisy
+Prediction is incorrect
+Probability  :  Flower
+86.618 : barbeton daisy
+10.307 : english marigold
+1.138 : gazania
+1.096 : blanket flower
+0.651 : sunflower
+Image flowers/test/6/image_07173.jpg of a 'tiger lily' is predicted as follows
+Most probably: tiger lily
+Prediction is correct
+Probability  :  Flower
+99.999 : tiger lily
+0.001 : purple coneflower
+0.000 : fire lily
+0.000 : black-eyed susan
+0.000 : gazania
+Image flowers/test/7/image_07211.jpg of a 'moon orchid' is predicted as follows
+Most probably: moon orchid
+Prediction is correct
+Probability  :  Flower
+29.573 : moon orchid
+11.620 : columbine
+11.008 : magnolia
+8.774 : giant white arum lily
+5.782 : ruby-lipped cattleya
+Image flowers/test/8/image_03291.jpg of a 'bird of paradise' is predicted as follows
+Most probably: bird of paradise
+Prediction is correct
+Probability  :  Flower
+99.996 : bird of paradise
+0.001 : gazania
+0.001 : trumpet creeper
+0.001 : bromelia
+0.000 : orange dahlia
+Image flowers/test/9/image_06410.jpg of a 'monkshood' is predicted as follows
+Most probably: monkshood
+Prediction is correct
+Probability  :  Flower
+52.939 : monkshood
+9.086 : balloon flower
+6.674 : morning glory
+6.360 : canterbury bells
+6.044 : mexican petunia
+Image flowers/test/10/image_07090.jpg of a 'globe thistle' is predicted as follows
+Most probably: globe thistle
+Prediction is correct
+Probability  :  Flower
+74.823 : globe thistle
+23.197 : artichoke
+0.604 : colt's foot
+0.450 : pincushion flower
+0.429 : spear thistle
+Image flowers/test/11/image_03098.jpg of a 'snapdragon' is predicted as follows
+Most probably: snapdragon
+Prediction is correct
+Probability  :  Flower
+12.372 : snapdragon
+10.702 : bearded iris
+8.097 : giant white arum lily
+6.334 : canterbury bells
+5.787 : camellia
+Image flowers/test/12/image_03994.jpg of a 'colt's foot' is predicted as follows
+Most probably: colt's foot
+Prediction is correct
+Probability  :  Flower
+99.997 : colt's foot
+0.001 : sunflower
+0.001 : tree poppy
+0.001 : buttercup
+0.000 : english marigold
+Image flowers/test/13/image_05745.jpg of a 'king protea' is predicted as follows
+Most probably: king protea
+Prediction is correct
+Probability  :  Flower
+99.983 : king protea
+0.011 : passion flower
+0.003 : blanket flower
+0.000 : spear thistle
+0.000 : purple coneflower
+Image flowers/test/14/image_06052.jpg of a 'spear thistle' is predicted as follows
+Most probably: spear thistle
+Prediction is correct
+Probability  :  Flower
+99.764 : spear thistle
+0.109 : artichoke
+0.100 : passion flower
+0.018 : colt's foot
+0.005 : globe thistle
+Image flowers/test/15/image_06351.jpg of a 'yellow iris' is predicted as follows
+Most probably: yellow iris
+Prediction is correct
+Probability  :  Flower
+98.320 : yellow iris
+0.996 : daffodil
+0.544 : buttercup
+0.030 : peruvian lily
+0.030 : columbine
+Image flowers/test/16/image_06657.jpg of a 'globe-flower' is predicted as follows
+Most probably: globe-flower
+Prediction is correct
+Probability  :  Flower
+99.606 : globe-flower
+0.322 : rose
+0.020 : corn poppy
+0.016 : camellia
+0.012 : canna lily
+Image flowers/test/17/image_03830.jpg of a 'purple coneflower' is predicted as follows
+Most probably: purple coneflower
+Prediction is correct
+Probability  :  Flower
+100.000 : purple coneflower
+0.000 : barbeton daisy
+0.000 : blanket flower
+0.000 : passion flower
+0.000 : gazania
+Image flowers/test/18/image_04254.jpg of a 'peruvian lily' is predicted as follows
+Most probably: watercress
+Prediction is incorrect
+Probability  :  Flower
+70.730 : watercress
+18.487 : peruvian lily
+4.556 : hibiscus
+3.753 : wallflower
+0.586 : canna lily
+Image flowers/test/19/image_06155.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+51.553 : balloon flower
+32.910 : love in the mist
+9.522 : pink primrose
+2.087 : morning glory
+1.040 : stemless gentian
+Image flowers/test/20/image_04910.jpg of a 'giant white arum lily' is predicted as follows
+Most probably: giant white arum lily
+Prediction is correct
+Probability  :  Flower
+32.138 : giant white arum lily
+13.282 : cyclamen
+5.861 : thorn apple
+4.378 : frangipani
+4.050 : moon orchid
+Image flowers/test/21/image_06805.jpg of a 'fire lily' is predicted as follows
+Most probably: fire lily
+Prediction is correct
+Probability  :  Flower
+97.589 : fire lily
+2.174 : cautleya spicata
+0.064 : rose
+0.051 : columbine
+0.044 : red ginger
+Image flowers/test/22/image_05360.jpg of a 'pincushion flower' is predicted as follows
+Most probably: pincushion flower
+Prediction is correct
+Probability  :  Flower
+99.944 : pincushion flower
+0.018 : garden phlox
+0.017 : carnation
+0.006 : grape hyacinth
+0.003 : tree poppy
+Image flowers/test/23/image_03382.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : mallow
+0.000 : anthurium
+0.000 : balloon flower
+0.000 : camellia
+Image flowers/test/24/image_06815.jpg of a 'red ginger' is predicted as follows
+Most probably: red ginger
+Prediction is correct
+Probability  :  Flower
+99.995 : red ginger
+0.003 : ball moss
+0.001 : bromelia
+0.001 : sword lily
+0.000 : bee balm
+Image flowers/test/25/image_06580.jpg of a 'grape hyacinth' is predicted as follows
+Most probably: grape hyacinth
+Prediction is correct
+Probability  :  Flower
+99.996 : grape hyacinth
+0.002 : spring crocus
+0.000 : frangipani
+0.000 : stemless gentian
+0.000 : garden phlox
+Image flowers/test/26/image_06497.jpg of a 'corn poppy' is predicted as follows
+Most probably: corn poppy
+Prediction is correct
+Probability  :  Flower
+38.835 : corn poppy
+10.690 : anthurium
+6.531 : mallow
+5.548 : bougainvillea
+5.283 : watercress
+Image flowers/test/27/image_06864.jpg of a 'prince of wales feathers' is predicted as follows
+Most probably: prince of wales feathers
+Prediction is correct
+Probability  :  Flower
+99.983 : prince of wales feathers
+0.004 : cautleya spicata
+0.004 : canna lily
+0.002 : orange dahlia
+0.002 : marigold
+Image flowers/test/28/image_05214.jpg of a 'stemless gentian' is predicted as follows
+Most probably: stemless gentian
+Prediction is correct
+Probability  :  Flower
+99.942 : stemless gentian
+0.030 : canterbury bells
+0.016 : monkshood
+0.003 : bolero deep blue
+0.002 : spring crocus
+Image flowers/test/29/image_04083.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+99.979 : artichoke
+0.014 : great masterwort
+0.002 : globe thistle
+0.002 : spear thistle
+0.002 : pincushion flower
+Image flowers/test/30/image_03466.jpg of a 'sweet william' is predicted as follows
+Most probably: sweet william
+Prediction is correct
+Probability  :  Flower
+56.298 : sweet william
+11.854 : love in the mist
+10.835 : clematis
+6.050 : bee balm
+1.970 : petunia
+Image flowers/test/31/image_06903.jpg of a 'carnation' is predicted as follows
+Most probably: carnation
+Prediction is correct
+Probability  :  Flower
+51.876 : carnation
+5.565 : sweet william
+5.115 : pink-yellow dahlia
+4.606 : fire lily
+2.883 : azalea
+Image flowers/test/32/image_05591.jpg of a 'garden phlox' is predicted as follows
+Most probably: garden phlox
+Prediction is correct
+Probability  :  Flower
+87.529 : garden phlox
+6.448 : sweet william
+0.943 : tree mallow
+0.737 : petunia
+0.595 : bishop of llandaff
+Image flowers/test/33/image_06454.jpg of a 'love in the mist' is predicted as follows
+Most probably: love in the mist
+Prediction is correct
+Probability  :  Flower
+59.147 : love in the mist
+7.808 : passion flower
+5.838 : monkshood
+4.760 : spear thistle
+4.637 : alpine sea holly
+Image flowers/test/34/image_06929.jpg of a 'mexican aster' is predicted as follows
+Most probably: mexican aster
+Prediction is correct
+Probability  :  Flower
+24.112 : mexican aster
+10.759 : ball moss
+6.333 : osteospermum
+5.858 : clematis
+5.749 : oxeye daisy
+Image flowers/test/35/image_06984.jpg of a 'alpine sea holly' is predicted as follows
+Most probably: alpine sea holly
+Prediction is correct
+Probability  :  Flower
+99.991 : alpine sea holly
+0.004 : spear thistle
+0.002 : globe thistle
+0.002 : king protea
+0.000 : love in the mist
+Image flowers/test/36/image_04334.jpg of a 'ruby-lipped cattleya' is predicted as follows
+Most probably: ruby-lipped cattleya
+Prediction is correct
+Probability  :  Flower
+98.887 : ruby-lipped cattleya
+0.310 : sword lily
+0.271 : cape flower
+0.157 : azalea
+0.080 : clematis
+Image flowers/test/37/image_03734.jpg of a 'cape flower' is predicted as follows
+Most probably: cape flower
+Prediction is correct
+Probability  :  Flower
+64.627 : cape flower
+7.758 : cyclamen
+5.142 : sweet pea
+3.506 : columbine
+2.716 : canterbury bells
+Image flowers/test/38/image_05796.jpg of a 'great masterwort' is predicted as follows
+Most probably: great masterwort
+Prediction is correct
+Probability  :  Flower
+99.125 : great masterwort
+0.299 : bee balm
+0.267 : pincushion flower
+0.151 : sweet william
+0.034 : pelargonium
+Image flowers/test/39/image_07010.jpg of a 'siam tulip' is predicted as follows
+Most probably: azalea
+Prediction is incorrect
+Probability  :  Flower
+11.702 : azalea
+8.441 : sweet pea
+5.478 : foxglove
+4.308 : bougainvillea
+3.626 : cyclamen
+Image flowers/test/40/image_04563.jpg of a 'lenten rose' is predicted as follows
+Most probably: lenten rose
+Prediction is correct
+Probability  :  Flower
+93.921 : lenten rose
+1.702 : foxglove
+1.489 : sweet william
+0.327 : azalea
+0.290 : clematis
+Image flowers/test/41/image_02193.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.999 : barbeton daisy
+0.000 : blanket flower
+0.000 : english marigold
+0.000 : sunflower
+0.000 : oxeye daisy
+Image flowers/test/42/image_05696.jpg of a 'daffodil' is predicted as follows
+Most probably: daffodil
+Prediction is correct
+Probability  :  Flower
+97.769 : daffodil
+0.376 : canna lily
+0.183 : sunflower
+0.131 : primula
+0.118 : camellia
+Image flowers/test/43/image_02329.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+98.850 : sword lily
+0.472 : watercress
+0.241 : canna lily
+0.087 : bearded iris
+0.071 : hibiscus
+Image flowers/test/44/image_01502.jpg of a 'poinsettia' is predicted as follows
+Most probably: poinsettia
+Prediction is correct
+Probability  :  Flower
+100.000 : poinsettia
+0.000 : bougainvillea
+0.000 : mallow
+0.000 : anthurium
+0.000 : prince of wales feathers
+Image flowers/test/45/image_07139.jpg of a 'bolero deep blue' is predicted as follows
+Most probably: bolero deep blue
+Prediction is correct
+Probability  :  Flower
+25.363 : bolero deep blue
+5.954 : japanese anemone
+5.431 : primula
+3.784 : canterbury bells
+3.721 : bougainvillea
+Image flowers/test/46/image_00958.jpg of a 'wallflower' is predicted as follows
+Most probably: wallflower
+Prediction is correct
+Probability  :  Flower
+62.507 : wallflower
+5.838 : blanket flower
+3.028 : blackberry lily
+2.481 : primula
+2.239 : bromelia
+Image flowers/test/47/image_04966.jpg of a 'marigold' is predicted as follows
+Most probably: marigold
+Prediction is correct
+Probability  :  Flower
+100.000 : marigold
+0.000 : tree poppy
+0.000 : sunflower
+0.000 : carnation
+0.000 : buttercup
+Image flowers/test/48/image_04627.jpg of a 'buttercup' is predicted as follows
+Most probably: buttercup
+Prediction is correct
+Probability  :  Flower
+98.649 : buttercup
+1.340 : californian poppy
+0.005 : wallflower
+0.003 : globe-flower
+0.001 : english marigold
+Image flowers/test/49/image_06202.jpg of a 'oxeye daisy' is predicted as follows
+Most probably: oxeye daisy
+Prediction is correct
+Probability  :  Flower
+67.428 : oxeye daisy
+13.815 : purple coneflower
+7.472 : sunflower
+5.493 : barbeton daisy
+1.105 : gazania
+Image flowers/test/50/image_06297.jpg of a 'common dandelion' is predicted as follows
+Most probably: colt's foot
+Prediction is incorrect
+Probability  :  Flower
+72.921 : colt's foot
+19.217 : common dandelion
+1.188 : carnation
+1.057 : english marigold
+0.817 : marigold
+Image flowers/test/51/image_01314.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+94.712 : petunia
+1.736 : silverbush
+1.197 : tree mallow
+0.990 : morning glory
+0.393 : azalea
+Image flowers/test/52/image_04160.jpg of a 'wild pansy' is predicted as follows
+Most probably: wild pansy
+Prediction is correct
+Probability  :  Flower
+100.000 : wild pansy
+0.000 : balloon flower
+0.000 : gaura
+0.000 : hippeastrum
+0.000 : clematis
+Image flowers/test/53/image_03645.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+68.586 : primula
+17.988 : silverbush
+4.256 : wallflower
+2.663 : californian poppy
+1.928 : wild pansy
+Image flowers/test/54/image_05402.jpg of a 'sunflower' is predicted as follows
+Most probably: sunflower
+Prediction is correct
+Probability  :  Flower
+100.000 : sunflower
+0.000 : tree poppy
+0.000 : alpine sea holly
+0.000 : daffodil
+0.000 : gazania
+Image flowers/test/55/image_04701.jpg of a 'pelargonium' is predicted as follows
+Most probably: pelargonium
+Prediction is correct
+Probability  :  Flower
+88.105 : pelargonium
+6.518 : balloon flower
+2.006 : mallow
+0.598 : pink primrose
+0.527 : petunia
+Image flowers/test/56/image_02772.jpg of a 'bishop of llandaff' is predicted as follows
+Most probably: bishop of llandaff
+Prediction is correct
+Probability  :  Flower
+99.487 : bishop of llandaff
+0.453 : orange dahlia
+0.050 : osteospermum
+0.006 : black-eyed susan
+0.002 : english marigold
+Image flowers/test/57/image_07234.jpg of a 'gaura' is predicted as follows
+Most probably: gaura
+Prediction is correct
+Probability  :  Flower
+99.993 : gaura
+0.005 : cape flower
+0.001 : columbine
+0.001 : pelargonium
+0.000 : toad lily
+Image flowers/test/58/image_02663.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : pink-yellow dahlia
+0.000 : azalea
+0.000 : wallflower
+0.000 : trumpet creeper
+Image flowers/test/59/image_05020.jpg of a 'orange dahlia' is predicted as follows
+Most probably: orange dahlia
+Prediction is correct
+Probability  :  Flower
+99.510 : orange dahlia
+0.450 : barbeton daisy
+0.034 : english marigold
+0.004 : gazania
+0.001 : bromelia
+Image flowers/test/60/image_02932.jpg of a 'pink-yellow dahlia' is predicted as follows
+Most probably: pink-yellow dahlia
+Prediction is correct
+Probability  :  Flower
+100.000 : pink-yellow dahlia
+0.000 : barbeton daisy
+0.000 : english marigold
+0.000 : common dandelion
+0.000 : gazania
+Image flowers/test/61/image_06248.jpg of a 'cautleya spicata' is predicted as follows
+Most probably: cautleya spicata
+Prediction is correct
+Probability  :  Flower
+97.242 : cautleya spicata
+0.785 : prince of wales feathers
+0.327 : orange dahlia
+0.318 : red ginger
+0.210 : purple coneflower
+Image flowers/test/62/image_07269.jpg of a 'japanese anemone' is predicted as follows
+Most probably: japanese anemone
+Prediction is correct
+Probability  :  Flower
+77.333 : japanese anemone
+10.498 : windflower
+4.994 : columbine
+0.587 : clematis
+0.507 : mexican aster
+Image flowers/test/63/image_05875.jpg of a 'black-eyed susan' is predicted as follows
+Most probably: black-eyed susan
+Prediction is correct
+Probability  :  Flower
+99.991 : black-eyed susan
+0.008 : english marigold
+0.001 : californian poppy
+0.000 : orange dahlia
+0.000 : gazania
+Image flowers/test/64/image_06099.jpg of a 'silverbush' is predicted as follows
+Most probably: silverbush
+Prediction is correct
+Probability  :  Flower
+99.980 : silverbush
+0.007 : windflower
+0.005 : californian poppy
+0.003 : pelargonium
+0.001 : garden phlox
+Image flowers/test/65/image_03188.jpg of a 'californian poppy' is predicted as follows
+Most probably: californian poppy
+Prediction is correct
+Probability  :  Flower
+96.296 : californian poppy
+2.039 : wallflower
+1.249 : black-eyed susan
+0.135 : silverbush
+0.064 : buttercup
+Image flowers/test/66/image_05537.jpg of a 'osteospermum' is predicted as follows
+Most probably: osteospermum
+Prediction is correct
+Probability  :  Flower
+99.801 : osteospermum
+0.112 : black-eyed susan
+0.040 : mexican aster
+0.020 : great masterwort
+0.009 : oxeye daisy
+Image flowers/test/67/image_07056.jpg of a 'spring crocus' is predicted as follows
+Most probably: spring crocus
+Prediction is correct
+Probability  :  Flower
+34.162 : spring crocus
+4.432 : love in the mist
+3.948 : balloon flower
+3.575 : columbine
+3.388 : grape hyacinth
+Image flowers/test/68/image_05903.jpg of a 'bearded iris' is predicted as follows
+Most probably: mexican petunia
+Prediction is incorrect
+Probability  :  Flower
+44.491 : mexican petunia
+32.221 : bearded iris
+6.410 : balloon flower
+6.023 : petunia
+2.433 : monkshood
+Image flowers/test/69/image_05959.jpg of a 'windflower' is predicted as follows
+Most probably: windflower
+Prediction is correct
+Probability  :  Flower
+44.077 : windflower
+14.728 : buttercup
+13.989 : moon orchid
+6.513 : columbine
+4.360 : spring crocus
+Image flowers/test/70/image_05308.jpg of a 'tree poppy' is predicted as follows
+Most probably: tree poppy
+Prediction is correct
+Probability  :  Flower
+85.323 : tree poppy
+3.807 : sunflower
+2.124 : mexican aster
+1.085 : windflower
+1.077 : pelargonium
+Image flowers/test/71/image_04482.jpg of a 'gazania' is predicted as follows
+Most probably: gazania
+Prediction is correct
+Probability  :  Flower
+99.999 : gazania
+0.000 : blanket flower
+0.000 : english marigold
+0.000 : bromelia
+0.000 : barbeton daisy
+Image flowers/test/72/image_03547.jpg of a 'azalea' is predicted as follows
+Most probably: azalea
+Prediction is correct
+Probability  :  Flower
+91.417 : azalea
+2.547 : mexican petunia
+2.010 : poinsettia
+1.137 : sweet william
+0.558 : sweet pea
+Image flowers/test/73/image_00258.jpg of a 'water lily' is predicted as follows
+Most probably: water lily
+Prediction is correct
+Probability  :  Flower
+45.708 : water lily
+15.392 : red ginger
+12.086 : ball moss
+5.448 : king protea
+5.445 : anthurium
+Image flowers/test/74/image_01151.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.463 : rose
+0.118 : frangipani
+0.085 : camellia
+0.070 : snapdragon
+0.042 : sword lily
+Image flowers/test/75/image_02075.jpg of a 'thorn apple' is predicted as follows
+Most probably: thorn apple
+Prediction is correct
+Probability  :  Flower
+95.578 : thorn apple
+3.790 : giant white arum lily
+0.270 : petunia
+0.090 : camellia
+0.036 : sword lily
+Image flowers/test/76/image_02472.jpg of a 'morning glory' is predicted as follows
+Most probably: morning glory
+Prediction is correct
+Probability  :  Flower
+29.436 : morning glory
+15.070 : mallow
+10.502 : balloon flower
+4.351 : poinsettia
+4.026 : bougainvillea
+Image flowers/test/77/image_00005.jpg of a 'passion flower' is predicted as follows
+Most probably: passion flower
+Prediction is correct
+Probability  :  Flower
+100.000 : passion flower
+0.000 : king protea
+0.000 : artichoke
+0.000 : great masterwort
+0.000 : love in the mist
+Image flowers/test/78/image_01830.jpg of a 'lotus lotus' is predicted as follows
+Most probably: lotus lotus
+Prediction is correct
+Probability  :  Flower
+96.194 : lotus lotus
+2.731 : frangipani
+0.989 : water lily
+0.051 : bromelia
+0.013 : siam tulip
+Image flowers/test/79/image_06708.jpg of a 'toad lily' is predicted as follows
+Most probably: toad lily
+Prediction is correct
+Probability  :  Flower
+72.844 : toad lily
+16.999 : blackberry lily
+7.252 : foxglove
+0.649 : hard-leaved pocket orchid
+0.405 : frangipani
+Image flowers/test/80/image_01983.jpg of a 'anthurium' is predicted as follows
+Most probably: anthurium
+Prediction is correct
+Probability  :  Flower
+99.979 : anthurium
+0.017 : mallow
+0.002 : camellia
+0.001 : watercress
+0.001 : corn poppy
+Image flowers/test/81/image_00798.jpg of a 'frangipani' is predicted as follows
+Most probably: frangipani
+Prediction is correct
+Probability  :  Flower
+100.000 : frangipani
+0.000 : bromelia
+0.000 : giant white arum lily
+0.000 : wild pansy
+0.000 : blackberry lily
+Image flowers/test/82/image_01594.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+99.988 : clematis
+0.009 : poinsettia
+0.002 : mexican aster
+0.001 : balloon flower
+0.000 : morning glory
+Image flowers/test/83/image_01735.jpg of a 'hibiscus' is predicted as follows
+Most probably: hibiscus
+Prediction is correct
+Probability  :  Flower
+92.355 : hibiscus
+1.271 : mexican aster
+1.161 : tree poppy
+0.657 : windflower
+0.625 : tree mallow
+Image flowers/test/84/image_02557.jpg of a 'columbine' is predicted as follows
+Most probably: columbine
+Prediction is correct
+Probability  :  Flower
+17.772 : columbine
+8.683 : daffodil
+8.491 : camellia
+7.866 : hippeastrum
+4.459 : mallow
+Image flowers/test/85/image_04786.jpg of a 'desert-rose' is predicted as follows
+Most probably: wallflower
+Prediction is incorrect
+Probability  :  Flower
+28.005 : wallflower
+7.575 : columbine
+6.975 : trumpet creeper
+3.146 : primula
+3.126 : peruvian lily
+Image flowers/test/86/image_02865.jpg of a 'tree mallow' is predicted as follows
+Most probably: tree mallow
+Prediction is correct
+Probability  :  Flower
+96.648 : tree mallow
+1.320 : hibiscus
+0.748 : sweet william
+0.367 : garden phlox
+0.244 : petunia
+Image flowers/test/87/image_05462.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+77.351 : magnolia
+2.798 : water lily
+1.952 : columbine
+1.780 : lenten rose
+1.454 : frangipani
+Image flowers/test/88/image_00457.jpg of a 'cyclamen' is predicted as follows
+Most probably: magnolia
+Prediction is incorrect
+Probability  :  Flower
+30.616 : magnolia
+29.782 : cyclamen
+24.763 : giant white arum lily
+4.699 : sweet pea
+2.151 : thorn apple
+Image flowers/test/89/image_00610.jpg of a 'watercress' is predicted as follows
+Most probably: watercress
+Prediction is correct
+Probability  :  Flower
+98.713 : watercress
+0.542 : primula
+0.259 : hibiscus
+0.179 : corn poppy
+0.061 : wallflower
+Image flowers/test/90/image_04405.jpg of a 'canna lily' is predicted as follows
+Most probably: sword lily
+Prediction is incorrect
+Probability  :  Flower
+93.439 : sword lily
+2.994 : bearded iris
+1.101 : canna lily
+0.407 : azalea
+0.309 : rose
+Image flowers/test/91/image_04851.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+99.998 : hippeastrum
+0.001 : columbine
+0.000 : hard-leaved pocket orchid
+0.000 : peruvian lily
+0.000 : wild pansy
+Image flowers/test/92/image_03032.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+63.054 : bee balm
+20.769 : love in the mist
+10.362 : great masterwort
+2.059 : pincushion flower
+1.383 : passion flower
+Image flowers/test/93/image_06014.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+14.307 : ball moss
+12.099 : mallow
+10.491 : sword lily
+9.507 : anthurium
+4.079 : morning glory
+Image flowers/test/94/image_07308.jpg of a 'foxglove' is predicted as follows
+Most probably: foxglove
+Prediction is correct
+Probability  :  Flower
+99.988 : foxglove
+0.012 : azalea
+0.000 : canterbury bells
+0.000 : sweet william
+0.000 : snapdragon
+Image flowers/test/95/image_07468.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.996 : bougainvillea
+0.002 : poinsettia
+0.001 : camellia
+0.000 : lotus lotus
+0.000 : mallow
+Image flowers/test/96/image_07596.jpg of a 'camellia' is predicted as follows
+Most probably: giant white arum lily
+Prediction is incorrect
+Probability  :  Flower
+51.672 : giant white arum lily
+16.780 : moon orchid
+11.490 : camellia
+8.480 : frangipani
+2.450 : rose
+Image flowers/test/97/image_07696.jpg of a 'mallow' is predicted as follows
+Most probably: mallow
+Prediction is correct
+Probability  :  Flower
+94.796 : mallow
+2.442 : camellia
+0.879 : hibiscus
+0.526 : watercress
+0.312 : canna lily
+Image flowers/test/98/image_07753.jpg of a 'mexican petunia' is predicted as follows
+Most probably: mexican petunia
+Prediction is correct
+Probability  :  Flower
+100.000 : mexican petunia
+0.000 : love in the mist
+0.000 : petunia
+0.000 : azalea
+0.000 : balloon flower
+Image flowers/test/99/image_07833.jpg of a 'bromelia' is predicted as follows
+Most probably: bromelia
+Prediction is correct
+Probability  :  Flower
+100.000 : bromelia
+0.000 : water lily
+0.000 : cyclamen
+0.000 : magnolia
+0.000 : siam tulip
+Image flowers/test/100/image_07896.jpg of a 'blanket flower' is predicted as follows
+Most probably: blanket flower
+Prediction is correct
+Probability  :  Flower
+95.162 : blanket flower
+3.350 : wallflower
+0.321 : canna lily
+0.262 : hibiscus
+0.222 : purple coneflower
+Image flowers/test/101/image_07949.jpg of a 'trumpet creeper' is predicted as follows
+Most probably: watercress
+Prediction is incorrect
+Probability  :  Flower
+65.915 : watercress
+7.216 : poinsettia
+6.621 : mallow
+5.595 : trumpet creeper
+3.141 : bougainvillea
+Image flowers/test/102/image_08004.jpg of a 'blackberry lily' is predicted as follows
+Most probably: blackberry lily
+Prediction is correct
+Probability  :  Flower
+100.000 : blackberry lily
+0.000 : hard-leaved pocket orchid
+0.000 : toad lily
+0.000 : gazania
+0.000 : bromelia

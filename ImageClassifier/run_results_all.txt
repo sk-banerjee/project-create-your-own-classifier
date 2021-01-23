@@ -1,0 +1,2016 @@
+Image flowers/test/43/image_02365.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+88.143 : sword lily
+11.784 : desert-rose
+0.042 : sweet pea
+0.016 : carnation
+0.008 : snapdragon
+Image flowers/test/43/image_02412.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+45.162 : sword lily
+18.419 : rose
+7.717 : canna lily
+6.448 : azalea
+5.845 : snapdragon
+Image flowers/test/43/image_02371.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+52.018 : sword lily
+12.261 : desert-rose
+7.116 : camellia
+6.672 : corn poppy
+5.258 : snapdragon
+Image flowers/test/43/image_02370.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+99.863 : sword lily
+0.062 : desert-rose
+0.059 : watercress
+0.006 : peruvian lily
+0.003 : canna lily
+Image flowers/test/43/image_02369.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+99.625 : sword lily
+0.317 : desert-rose
+0.035 : carnation
+0.005 : sweet pea
+0.004 : snapdragon
+Image flowers/test/43/image_02435.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+67.708 : sword lily
+11.577 : desert-rose
+8.406 : bearded iris
+2.133 : mexican petunia
+1.972 : hibiscus
+Image flowers/test/43/image_02433.jpg of a 'sword lily' is predicted as follows
+Most probably: desert-rose
+Prediction is incorrect
+Probability  :  Flower
+42.756 : desert-rose
+36.921 : sword lily
+8.235 : rose
+5.822 : cyclamen
+3.137 : sweet pea
+Image flowers/test/43/image_02349.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+99.933 : sword lily
+0.054 : desert-rose
+0.012 : carnation
+0.000 : bearded iris
+0.000 : sweet william
+Image flowers/test/43/image_02346.jpg of a 'sword lily' is predicted as follows
+Most probably: foxglove
+Prediction is incorrect
+Probability  :  Flower
+18.053 : foxglove
+11.673 : ruby-lipped cattleya
+9.569 : carnation
+9.284 : bearded iris
+8.796 : moon orchid
+Image flowers/test/43/image_02394.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+86.922 : sword lily
+13.072 : desert-rose
+0.004 : sweet pea
+0.001 : azalea
+0.000 : garden phlox
+Image flowers/test/43/image_02329.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+99.986 : sword lily
+0.011 : desert-rose
+0.001 : carnation
+0.001 : canna lily
+0.000 : sweet pea
+Image flowers/test/43/image_02426.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+83.572 : sword lily
+5.410 : desert-rose
+4.748 : sweet pea
+1.743 : snapdragon
+0.687 : camellia
+Image flowers/test/43/image_02400.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+97.229 : sword lily
+2.208 : desert-rose
+0.232 : snapdragon
+0.210 : sweet pea
+0.033 : geranium
+Image flowers/test/43/image_02335.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+83.990 : sword lily
+14.791 : desert-rose
+0.919 : sweet pea
+0.128 : snapdragon
+0.028 : camellia
+Image flowers/test/43/image_02386.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+99.816 : sword lily
+0.062 : desert-rose
+0.056 : geranium
+0.018 : sweet pea
+0.015 : carnation
+Image flowers/test/43/image_02431.jpg of a 'sword lily' is predicted as follows
+Most probably: sword lily
+Prediction is correct
+Probability  :  Flower
+98.482 : sword lily
+1.445 : desert-rose
+0.047 : carnation
+0.014 : peruvian lily
+0.005 : azalea
+Image flowers/test/92/image_03054.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+93.167 : bee balm
+5.823 : red ginger
+0.269 : passion flower
+0.193 : blanket flower
+0.126 : barbeton daisy
+Image flowers/test/92/image_03039.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+99.223 : bee balm
+0.248 : great masterwort
+0.103 : pincushion flower
+0.078 : gaura
+0.053 : garden phlox
+Image flowers/test/92/image_03032.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+54.784 : bee balm
+10.032 : pincushion flower
+8.428 : passion flower
+5.586 : great masterwort
+3.843 : cape flower
+Image flowers/test/92/image_03048.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+97.244 : bee balm
+2.666 : gaura
+0.070 : love in the mist
+0.010 : great masterwort
+0.002 : cape flower
+Image flowers/test/92/image_03056.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+96.638 : bee balm
+3.272 : red ginger
+0.038 : passion flower
+0.036 : clematis
+0.009 : king protea
+Image flowers/test/92/image_03044.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+47.234 : bee balm
+29.837 : gaura
+7.841 : pincushion flower
+5.366 : great masterwort
+3.029 : passion flower
+Image flowers/test/92/image_03058.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+99.755 : bee balm
+0.099 : red ginger
+0.058 : cautleya spicata
+0.053 : gaura
+0.018 : prince of wales feathers
+Image flowers/test/92/image_03052.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+99.300 : bee balm
+0.311 : gaura
+0.124 : king protea
+0.083 : love in the mist
+0.057 : red ginger
+Image flowers/test/92/image_03075.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+48.852 : bee balm
+43.834 : great masterwort
+3.206 : pincushion flower
+2.030 : love in the mist
+0.881 : gaura
+Image flowers/test/92/image_03041.jpg of a 'bee balm' is predicted as follows
+Most probably: bee balm
+Prediction is correct
+Probability  :  Flower
+99.993 : bee balm
+0.006 : red ginger
+0.000 : gaura
+0.000 : king protea
+0.000 : great masterwort
+Image flowers/test/92/image_03049.jpg of a 'bee balm' is predicted as follows
+Most probably: fire lily
+Prediction is incorrect
+Probability  :  Flower
+54.826 : fire lily
+44.679 : bee balm
+0.214 : gaura
+0.201 : cape flower
+0.051 : red ginger
+Image flowers/test/88/image_00477.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+92.097 : cyclamen
+4.848 : sword lily
+0.739 : sweet pea
+0.603 : desert-rose
+0.323 : frangipani
+Image flowers/test/88/image_00474.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+99.103 : cyclamen
+0.437 : cape flower
+0.109 : sword lily
+0.103 : rose
+0.044 : ruby-lipped cattleya
+Image flowers/test/88/image_00520.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+99.999 : cyclamen
+0.001 : lotus lotus
+0.000 : siam tulip
+0.000 : magnolia
+0.000 : frangipani
+Image flowers/test/88/image_00584.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+99.925 : cyclamen
+0.034 : magnolia
+0.027 : frangipani
+0.007 : ruby-lipped cattleya
+0.003 : giant white arum lily
+Image flowers/test/88/image_00526.jpg of a 'cyclamen' is predicted as follows
+Most probably: magnolia
+Prediction is incorrect
+Probability  :  Flower
+90.090 : magnolia
+7.636 : cyclamen
+1.515 : giant white arum lily
+0.259 : siam tulip
+0.196 : frangipani
+Image flowers/test/88/image_00457.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+94.196 : cyclamen
+3.114 : magnolia
+1.128 : moon orchid
+0.883 : sweet pea
+0.298 : giant white arum lily
+Image flowers/test/88/image_00482.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+91.327 : cyclamen
+2.002 : lotus lotus
+1.392 : bromelia
+1.317 : magnolia
+0.913 : siam tulip
+Image flowers/test/88/image_00551.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+77.119 : cyclamen
+9.342 : sweet pea
+2.322 : desert-rose
+1.553 : magnolia
+1.467 : ruby-lipped cattleya
+Image flowers/test/88/image_00594.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+99.984 : cyclamen
+0.005 : magnolia
+0.004 : bromelia
+0.002 : rose
+0.001 : sword lily
+Image flowers/test/88/image_00467.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+93.778 : cyclamen
+2.349 : cape flower
+1.031 : sweet pea
+0.930 : lotus lotus
+0.529 : ruby-lipped cattleya
+Image flowers/test/88/image_00563.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+99.629 : cyclamen
+0.143 : lotus lotus
+0.045 : sword lily
+0.036 : sweet pea
+0.032 : ruby-lipped cattleya
+Image flowers/test/88/image_00540.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+100.000 : cyclamen
+0.000 : lotus lotus
+0.000 : magnolia
+0.000 : siam tulip
+0.000 : ruby-lipped cattleya
+Image flowers/test/88/image_00582.jpg of a 'cyclamen' is predicted as follows
+Most probably: cyclamen
+Prediction is correct
+Probability  :  Flower
+81.113 : cyclamen
+17.293 : magnolia
+0.391 : bromelia
+0.329 : sweet pea
+0.306 : siam tulip
+Image flowers/test/91/image_04860.jpg of a 'hippeastrum' is predicted as follows
+Most probably: fire lily
+Prediction is incorrect
+Probability  :  Flower
+57.282 : fire lily
+22.466 : hippeastrum
+12.139 : peruvian lily
+3.336 : sword lily
+0.933 : columbine
+Image flowers/test/91/image_04890.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+99.992 : hippeastrum
+0.008 : hard-leaved pocket orchid
+0.000 : peruvian lily
+0.000 : columbine
+0.000 : lotus lotus
+Image flowers/test/91/image_04870.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+100.000 : hippeastrum
+0.000 : sword lily
+0.000 : tree mallow
+0.000 : ruby-lipped cattleya
+0.000 : hibiscus
+Image flowers/test/91/image_04856.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+99.999 : hippeastrum
+0.001 : tree mallow
+0.000 : peruvian lily
+0.000 : sword lily
+0.000 : hibiscus
+Image flowers/test/91/image_08061.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+100.000 : hippeastrum
+0.000 : peruvian lily
+0.000 : tree mallow
+0.000 : sword lily
+0.000 : passion flower
+Image flowers/test/91/image_04875.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+90.308 : hippeastrum
+6.357 : peruvian lily
+2.050 : sword lily
+0.401 : hibiscus
+0.231 : sweet william
+Image flowers/test/91/image_04883.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+99.988 : hippeastrum
+0.012 : sword lily
+0.000 : hibiscus
+0.000 : peruvian lily
+0.000 : columbine
+Image flowers/test/91/image_04851.jpg of a 'hippeastrum' is predicted as follows
+Most probably: hippeastrum
+Prediction is correct
+Probability  :  Flower
+99.988 : hippeastrum
+0.004 : tree mallow
+0.004 : peruvian lily
+0.003 : lotus lotus
+0.000 : siam tulip
+Image flowers/test/95/image_07573.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.764 : bougainvillea
+0.052 : rose
+0.051 : balloon flower
+0.025 : mallow
+0.019 : thorn apple
+Image flowers/test/95/image_07508.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.985 : bougainvillea
+0.012 : pelargonium
+0.001 : camellia
+0.001 : poinsettia
+0.001 : azalea
+Image flowers/test/95/image_07584.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.999 : bougainvillea
+0.000 : camellia
+0.000 : rose
+0.000 : lotus lotus
+0.000 : columbine
+Image flowers/test/95/image_07505.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+97.377 : bougainvillea
+0.483 : rose
+0.452 : camellia
+0.231 : columbine
+0.192 : mallow
+Image flowers/test/95/image_07470.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+89.967 : bougainvillea
+7.598 : pelargonium
+0.713 : rose
+0.373 : sweet pea
+0.236 : petunia
+Image flowers/test/95/image_07468.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.999 : bougainvillea
+0.001 : camellia
+0.000 : poinsettia
+0.000 : lotus lotus
+0.000 : rose
+Image flowers/test/95/image_07536.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+98.658 : bougainvillea
+0.443 : petunia
+0.262 : azalea
+0.237 : pelargonium
+0.119 : balloon flower
+Image flowers/test/95/image_07551.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+96.521 : bougainvillea
+2.001 : poinsettia
+0.562 : camellia
+0.522 : corn poppy
+0.242 : watercress
+Image flowers/test/95/image_07514.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.578 : bougainvillea
+0.209 : pelargonium
+0.048 : camellia
+0.043 : windflower
+0.029 : lotus lotus
+Image flowers/test/95/image_07519.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.994 : bougainvillea
+0.004 : pelargonium
+0.001 : poinsettia
+0.000 : camellia
+0.000 : balloon flower
+Image flowers/test/95/image_07550.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+72.947 : bougainvillea
+11.117 : thorn apple
+5.498 : balloon flower
+3.810 : poinsettia
+2.105 : mallow
+Image flowers/test/95/image_07561.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+99.997 : bougainvillea
+0.002 : pelargonium
+0.000 : camellia
+0.000 : columbine
+0.000 : lotus lotus
+Image flowers/test/95/image_07487.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+97.287 : bougainvillea
+1.107 : rose
+0.372 : pelargonium
+0.317 : sweet pea
+0.225 : azalea
+Image flowers/test/95/image_07472.jpg of a 'bougainvillea' is predicted as follows
+Most probably: bougainvillea
+Prediction is correct
+Probability  :  Flower
+95.551 : bougainvillea
+2.286 : rose
+0.699 : mallow
+0.444 : globe-flower
+0.242 : corn poppy
+Image flowers/test/29/image_04112.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+99.947 : artichoke
+0.044 : spear thistle
+0.006 : globe thistle
+0.003 : pincushion flower
+0.000 : carnation
+Image flowers/test/29/image_04146.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+99.782 : artichoke
+0.146 : spear thistle
+0.052 : king protea
+0.005 : carnation
+0.003 : siam tulip
+Image flowers/test/29/image_04095.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+98.779 : artichoke
+1.030 : spear thistle
+0.075 : king protea
+0.053 : carnation
+0.030 : globe thistle
+Image flowers/test/29/image_04137.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+99.776 : artichoke
+0.193 : king protea
+0.030 : spear thistle
+0.001 : carnation
+0.000 : passion flower
+Image flowers/test/29/image_04090.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+96.525 : artichoke
+3.347 : spear thistle
+0.088 : king protea
+0.018 : globe thistle
+0.017 : colt's foot
+Image flowers/test/29/image_04145.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+98.937 : artichoke
+0.914 : spear thistle
+0.128 : king protea
+0.014 : globe thistle
+0.005 : passion flower
+Image flowers/test/29/image_04083.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+99.908 : artichoke
+0.063 : spear thistle
+0.027 : globe thistle
+0.002 : king protea
+0.000 : alpine sea holly
+Image flowers/test/29/image_04124.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+96.555 : artichoke
+2.021 : spear thistle
+0.449 : pincushion flower
+0.325 : alpine sea holly
+0.195 : globe thistle
+Image flowers/test/29/image_04142.jpg of a 'artichoke' is predicted as follows
+Most probably: artichoke
+Prediction is correct
+Probability  :  Flower
+98.770 : artichoke
+1.221 : king protea
+0.005 : spear thistle
+0.003 : carnation
+0.000 : lenten rose
+Image flowers/test/19/image_06197.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+95.361 : balloon flower
+4.125 : petunia
+0.382 : pink primrose
+0.057 : mexican petunia
+0.044 : clematis
+Image flowers/test/19/image_06196.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+99.647 : balloon flower
+0.239 : petunia
+0.054 : pink primrose
+0.027 : clematis
+0.017 : wild pansy
+Image flowers/test/19/image_06186.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+99.885 : balloon flower
+0.054 : passion flower
+0.023 : wild pansy
+0.009 : stemless gentian
+0.007 : monkshood
+Image flowers/test/19/image_06170.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+94.029 : balloon flower
+2.811 : petunia
+2.366 : clematis
+0.287 : pink primrose
+0.256 : mexican petunia
+Image flowers/test/19/image_06175.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+95.318 : balloon flower
+3.225 : petunia
+0.754 : pink primrose
+0.333 : bougainvillea
+0.107 : pelargonium
+Image flowers/test/19/image_06155.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+97.905 : balloon flower
+1.332 : morning glory
+0.225 : pink primrose
+0.129 : stemless gentian
+0.128 : petunia
+Image flowers/test/19/image_06159.jpg of a 'balloon flower' is predicted as follows
+Most probably: balloon flower
+Prediction is correct
+Probability  :  Flower
+71.742 : balloon flower
+12.768 : clematis
+10.881 : petunia
+2.230 : garden phlox
+0.695 : morning glory
+Image flowers/test/85/image_04801.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+83.186 : desert-rose
+14.681 : sword lily
+0.524 : hippeastrum
+0.211 : sweet pea
+0.190 : bolero deep blue
+Image flowers/test/85/image_04819.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+97.411 : desert-rose
+2.400 : sword lily
+0.098 : sweet pea
+0.068 : snapdragon
+0.012 : cyclamen
+Image flowers/test/85/image_04825.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+91.868 : desert-rose
+8.044 : sword lily
+0.049 : sweet pea
+0.015 : cyclamen
+0.011 : snapdragon
+Image flowers/test/85/image_04808.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+50.321 : desert-rose
+15.527 : sword lily
+7.235 : snapdragon
+3.727 : sweet pea
+2.183 : garden phlox
+Image flowers/test/85/image_04806.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+99.789 : desert-rose
+0.118 : snapdragon
+0.071 : sword lily
+0.014 : sweet pea
+0.004 : camellia
+Image flowers/test/85/image_04797.jpg of a 'desert-rose' is predicted as follows
+Most probably: sword lily
+Prediction is incorrect
+Probability  :  Flower
+50.665 : sword lily
+37.868 : desert-rose
+5.344 : red ginger
+4.796 : ball moss
+0.859 : bromelia
+Image flowers/test/85/image_04814.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+93.480 : desert-rose
+6.479 : sword lily
+0.031 : sweet pea
+0.005 : cyclamen
+0.001 : snapdragon
+Image flowers/test/85/image_04786.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+17.247 : desert-rose
+11.588 : wallflower
+10.603 : sword lily
+7.869 : trumpet creeper
+6.645 : snapdragon
+Image flowers/test/85/image_04805.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+93.939 : desert-rose
+4.576 : sword lily
+0.334 : cyclamen
+0.314 : siam tulip
+0.251 : sweet pea
+Image flowers/test/85/image_04810.jpg of a 'desert-rose' is predicted as follows
+Most probably: desert-rose
+Prediction is correct
+Probability  :  Flower
+98.633 : desert-rose
+0.626 : sword lily
+0.145 : hibiscus
+0.099 : peruvian lily
+0.095 : sweet william
+Image flowers/test/9/image_06413.jpg of a 'monkshood' is predicted as follows
+Most probably: monkshood
+Prediction is correct
+Probability  :  Flower
+92.697 : monkshood
+5.880 : canterbury bells
+0.405 : sweet pea
+0.355 : stemless gentian
+0.315 : grape hyacinth
+Image flowers/test/9/image_06410.jpg of a 'monkshood' is predicted as follows
+Most probably: monkshood
+Prediction is correct
+Probability  :  Flower
+75.757 : monkshood
+9.013 : balloon flower
+4.142 : canterbury bells
+2.690 : stemless gentian
+1.599 : spring crocus
+Image flowers/test/74/image_01165.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+51.958 : rose
+33.177 : camellia
+14.482 : water lily
+0.142 : snapdragon
+0.128 : carnation
+Image flowers/test/74/image_01213.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+33.658 : rose
+11.558 : snapdragon
+8.675 : frangipani
+6.410 : camellia
+5.958 : moon orchid
+Image flowers/test/74/image_01209.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.832 : rose
+0.126 : snapdragon
+0.022 : sword lily
+0.013 : camellia
+0.003 : cyclamen
+Image flowers/test/74/image_01200.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.961 : rose
+0.031 : carnation
+0.001 : fire lily
+0.001 : geranium
+0.001 : camellia
+Image flowers/test/74/image_01305.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+36.048 : rose
+8.438 : cyclamen
+7.067 : giant white arum lily
+6.592 : magnolia
+6.544 : sword lily
+Image flowers/test/74/image_01276.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.864 : rose
+0.038 : snapdragon
+0.021 : sword lily
+0.019 : camellia
+0.012 : corn poppy
+Image flowers/test/74/image_01191.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.442 : rose
+0.402 : fire lily
+0.042 : snapdragon
+0.032 : wallflower
+0.016 : corn poppy
+Image flowers/test/74/image_01256.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+98.163 : rose
+0.864 : fire lily
+0.552 : trumpet creeper
+0.098 : canna lily
+0.069 : sword lily
+Image flowers/test/74/image_01254.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.994 : rose
+0.005 : carnation
+0.001 : camellia
+0.000 : sword lily
+0.000 : canna lily
+Image flowers/test/74/image_01173.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+93.541 : rose
+2.938 : snapdragon
+1.819 : sword lily
+1.350 : camellia
+0.122 : carnation
+Image flowers/test/74/image_01312.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.987 : rose
+0.003 : snapdragon
+0.003 : sword lily
+0.002 : trumpet creeper
+0.001 : geranium
+Image flowers/test/74/image_01151.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+91.761 : rose
+7.187 : sword lily
+0.335 : snapdragon
+0.266 : camellia
+0.143 : desert-rose
+Image flowers/test/74/image_01307.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+87.773 : rose
+4.327 : bougainvillea
+1.542 : anthurium
+0.917 : sword lily
+0.906 : camellia
+Image flowers/test/74/image_01249.jpg of a 'rose' is predicted as follows
+Most probably: rose
+Prediction is correct
+Probability  :  Flower
+99.828 : rose
+0.079 : carnation
+0.022 : fire lily
+0.020 : sword lily
+0.012 : camellia
+Image flowers/test/82/image_01598.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+90.183 : clematis
+5.932 : desert-rose
+1.379 : ruby-lipped cattleya
+0.479 : garden phlox
+0.430 : sweet william
+Image flowers/test/82/image_01662.jpg of a 'clematis' is predicted as follows
+Most probably: balloon flower
+Prediction is incorrect
+Probability  :  Flower
+39.419 : balloon flower
+30.938 : clematis
+12.637 : passion flower
+7.705 : hippeastrum
+4.599 : wild pansy
+Image flowers/test/82/image_01679.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+92.545 : clematis
+6.510 : passion flower
+0.870 : balloon flower
+0.017 : petunia
+0.011 : hippeastrum
+Image flowers/test/82/image_01661.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+94.410 : clematis
+1.591 : balloon flower
+1.388 : passion flower
+0.621 : thorn apple
+0.236 : love in the mist
+Image flowers/test/82/image_01672.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+88.817 : clematis
+10.087 : mexican petunia
+0.810 : petunia
+0.138 : balloon flower
+0.075 : pink primrose
+Image flowers/test/82/image_01685.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+99.998 : clematis
+0.001 : passion flower
+0.000 : lenten rose
+0.000 : ruby-lipped cattleya
+0.000 : hippeastrum
+Image flowers/test/82/image_01610.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+44.938 : clematis
+44.664 : balloon flower
+3.238 : pink primrose
+3.205 : bolero deep blue
+1.364 : morning glory
+Image flowers/test/82/image_01603.jpg of a 'clematis' is predicted as follows
+Most probably: passion flower
+Prediction is incorrect
+Probability  :  Flower
+29.776 : passion flower
+17.723 : thorn apple
+15.685 : balloon flower
+14.951 : clematis
+3.325 : ruby-lipped cattleya
+Image flowers/test/82/image_01650.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+99.765 : clematis
+0.152 : sweet william
+0.024 : bee balm
+0.019 : lenten rose
+0.010 : passion flower
+Image flowers/test/82/image_01614.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+99.969 : clematis
+0.015 : balloon flower
+0.011 : petunia
+0.003 : passion flower
+0.001 : lenten rose
+Image flowers/test/82/image_01609.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+91.232 : clematis
+3.927 : passion flower
+0.631 : desert-rose
+0.439 : bee balm
+0.409 : sweet william
+Image flowers/test/82/image_01599.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+99.275 : clematis
+0.562 : balloon flower
+0.086 : petunia
+0.071 : passion flower
+0.002 : mexican petunia
+Image flowers/test/82/image_01686.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+95.793 : clematis
+3.593 : balloon flower
+0.359 : passion flower
+0.149 : petunia
+0.053 : thorn apple
+Image flowers/test/82/image_01618.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+97.604 : clematis
+1.168 : lenten rose
+0.704 : balloon flower
+0.264 : passion flower
+0.094 : columbine
+Image flowers/test/82/image_01666.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+86.202 : clematis
+7.530 : balloon flower
+2.099 : petunia
+0.878 : passion flower
+0.745 : morning glory
+Image flowers/test/82/image_01653.jpg of a 'clematis' is predicted as follows
+Most probably: balloon flower
+Prediction is incorrect
+Probability  :  Flower
+80.105 : balloon flower
+6.385 : passion flower
+6.217 : clematis
+1.669 : bougainvillea
+0.822 : columbine
+Image flowers/test/82/image_01594.jpg of a 'clematis' is predicted as follows
+Most probably: clematis
+Prediction is correct
+Probability  :  Flower
+100.000 : clematis
+0.000 : balloon flower
+0.000 : poinsettia
+0.000 : mexican aster
+0.000 : passion flower
+Image flowers/test/58/image_02743.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.718 : geranium
+0.081 : wallflower
+0.078 : rose
+0.063 : bishop of llandaff
+0.014 : snapdragon
+Image flowers/test/58/image_02752.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : trumpet creeper
+0.000 : watercress
+0.000 : english marigold
+0.000 : bishop of llandaff
+Image flowers/test/58/image_02721.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : sword lily
+0.000 : pink-yellow dahlia
+0.000 : wallflower
+0.000 : snapdragon
+Image flowers/test/58/image_02694.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : rose
+0.000 : carnation
+0.000 : pink-yellow dahlia
+0.000 : english marigold
+Image flowers/test/58/image_02719.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : rose
+0.000 : bishop of llandaff
+0.000 : carnation
+0.000 : sword lily
+Image flowers/test/58/image_02663.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : pink-yellow dahlia
+0.000 : trumpet creeper
+0.000 : sword lily
+0.000 : wallflower
+Image flowers/test/58/image_02738.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.989 : geranium
+0.003 : rose
+0.002 : snapdragon
+0.002 : sword lily
+0.001 : carnation
+Image flowers/test/58/image_02681.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.813 : geranium
+0.100 : snapdragon
+0.036 : wallflower
+0.016 : sword lily
+0.015 : trumpet creeper
+Image flowers/test/58/image_02737.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.992 : geranium
+0.007 : trumpet creeper
+0.000 : wallflower
+0.000 : watercress
+0.000 : sword lily
+Image flowers/test/58/image_02677.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : pink-yellow dahlia
+0.000 : english marigold
+0.000 : primula
+0.000 : watercress
+Image flowers/test/58/image_02672.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+100.000 : geranium
+0.000 : pink-yellow dahlia
+0.000 : carnation
+0.000 : english marigold
+0.000 : sword lily
+Image flowers/test/58/image_02695.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.999 : geranium
+0.001 : pink-yellow dahlia
+0.000 : carnation
+0.000 : sword lily
+0.000 : rose
+Image flowers/test/58/image_02722.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.995 : geranium
+0.003 : pink-yellow dahlia
+0.001 : sword lily
+0.000 : trumpet creeper
+0.000 : bishop of llandaff
+Image flowers/test/58/image_02687.jpg of a 'geranium' is predicted as follows
+Most probably: geranium
+Prediction is correct
+Probability  :  Flower
+99.926 : geranium
+0.040 : wallflower
+0.005 : bishop of llandaff
+0.005 : watercress
+0.005 : sword lily
+Image flowers/test/41/image_02222.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+97.307 : barbeton daisy
+1.262 : oxeye daisy
+0.808 : english marigold
+0.370 : orange dahlia
+0.093 : osteospermum
+Image flowers/test/41/image_02193.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.783 : barbeton daisy
+0.182 : english marigold
+0.031 : oxeye daisy
+0.001 : common dandelion
+0.001 : sunflower
+Image flowers/test/41/image_02261.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: english marigold
+Prediction is incorrect
+Probability  :  Flower
+72.291 : english marigold
+25.747 : barbeton daisy
+1.138 : gazania
+0.409 : osteospermum
+0.234 : black-eyed susan
+Image flowers/test/41/image_02251.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+84.663 : barbeton daisy
+15.332 : english marigold
+0.001 : oxeye daisy
+0.001 : orange dahlia
+0.001 : gazania
+Image flowers/test/41/image_02257.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.665 : barbeton daisy
+0.277 : oxeye daisy
+0.053 : osteospermum
+0.004 : english marigold
+0.002 : mexican aster
+Image flowers/test/41/image_02270.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+98.573 : barbeton daisy
+1.412 : english marigold
+0.006 : oxeye daisy
+0.005 : pink-yellow dahlia
+0.003 : orange dahlia
+Image flowers/test/41/image_02306.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.858 : barbeton daisy
+0.059 : english marigold
+0.046 : osteospermum
+0.030 : oxeye daisy
+0.004 : mexican aster
+Image flowers/test/41/image_02302.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.953 : barbeton daisy
+0.033 : oxeye daisy
+0.011 : english marigold
+0.004 : osteospermum
+0.000 : mexican aster
+Image flowers/test/41/image_02266.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.700 : barbeton daisy
+0.211 : english marigold
+0.070 : orange dahlia
+0.013 : bishop of llandaff
+0.004 : osteospermum
+Image flowers/test/41/image_02200.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.983 : barbeton daisy
+0.011 : oxeye daisy
+0.005 : english marigold
+0.000 : sunflower
+0.000 : mexican aster
+Image flowers/test/41/image_02237.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+83.741 : barbeton daisy
+15.635 : oxeye daisy
+0.216 : osteospermum
+0.170 : mexican aster
+0.072 : english marigold
+Image flowers/test/41/image_02305.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+58.176 : barbeton daisy
+25.642 : blanket flower
+4.763 : purple coneflower
+4.036 : bee balm
+2.482 : gazania
+Image flowers/test/41/image_02263.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+99.985 : barbeton daisy
+0.006 : osteospermum
+0.005 : english marigold
+0.003 : mexican aster
+0.001 : bishop of llandaff
+Image flowers/test/41/image_02245.jpg of a 'barbeton daisy' is predicted as follows
+Most probably: barbeton daisy
+Prediction is correct
+Probability  :  Flower
+92.900 : barbeton daisy
+4.624 : english marigold
+1.922 : osteospermum
+0.149 : oxeye daisy
+0.149 : mexican aster
+Image flowers/test/51/image_03973.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+45.436 : petunia
+22.625 : garden phlox
+8.113 : sword lily
+4.591 : azalea
+4.404 : bearded iris
+Image flowers/test/51/image_03985.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.879 : petunia
+0.049 : hibiscus
+0.044 : tree mallow
+0.015 : pink primrose
+0.004 : morning glory
+Image flowers/test/51/image_03926.jpg of a 'petunia' is predicted as follows
+Most probably: sword lily
+Prediction is incorrect
+Probability  :  Flower
+11.789 : sword lily
+11.214 : hibiscus
+8.958 : trumpet creeper
+8.208 : sweet pea
+7.832 : mexican petunia
+Image flowers/test/51/image_01362.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.707 : petunia
+0.110 : watercress
+0.077 : hibiscus
+0.019 : wallflower
+0.016 : azalea
+Image flowers/test/51/image_01328.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+97.756 : petunia
+1.982 : watercress
+0.096 : tree mallow
+0.091 : morning glory
+0.040 : hibiscus
+Image flowers/test/51/image_03968.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.730 : petunia
+0.135 : pink primrose
+0.053 : tree mallow
+0.015 : hibiscus
+0.014 : garden phlox
+Image flowers/test/51/image_01340.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.993 : petunia
+0.005 : tree mallow
+0.001 : hibiscus
+0.000 : watercress
+0.000 : sweet william
+Image flowers/test/51/image_01457.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.498 : petunia
+0.435 : thorn apple
+0.029 : pelargonium
+0.024 : bearded iris
+0.003 : tree poppy
+Image flowers/test/51/image_03984.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+77.438 : petunia
+7.588 : garden phlox
+2.950 : hibiscus
+2.607 : pink primrose
+2.530 : tree mallow
+Image flowers/test/51/image_03939.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+81.587 : petunia
+6.766 : lenten rose
+6.337 : clematis
+1.472 : azalea
+1.083 : hippeastrum
+Image flowers/test/51/image_01335.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.287 : petunia
+0.144 : sword lily
+0.139 : azalea
+0.072 : watercress
+0.065 : hibiscus
+Image flowers/test/51/image_01316.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.972 : petunia
+0.019 : thorn apple
+0.005 : mexican petunia
+0.001 : azalea
+0.001 : morning glory
+Image flowers/test/51/image_03960.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+96.339 : petunia
+0.911 : hibiscus
+0.648 : sweet william
+0.580 : azalea
+0.503 : garden phlox
+Image flowers/test/51/image_01474.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.607 : petunia
+0.138 : pelargonium
+0.081 : garden phlox
+0.049 : silverbush
+0.040 : snapdragon
+Image flowers/test/51/image_03989.jpg of a 'petunia' is predicted as follows
+Most probably: balloon flower
+Prediction is incorrect
+Probability  :  Flower
+83.985 : balloon flower
+7.228 : petunia
+4.232 : pink primrose
+0.889 : thorn apple
+0.501 : clematis
+Image flowers/test/51/image_01314.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.919 : petunia
+0.062 : tree mallow
+0.009 : silverbush
+0.003 : pink primrose
+0.003 : morning glory
+Image flowers/test/51/image_03954.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+86.702 : petunia
+7.285 : garden phlox
+2.844 : snapdragon
+0.450 : sweet william
+0.308 : azalea
+Image flowers/test/51/image_01407.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.998 : petunia
+0.001 : pelargonium
+0.000 : thorn apple
+0.000 : tree mallow
+0.000 : pink primrose
+Image flowers/test/51/image_01406.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.999 : petunia
+0.001 : pelargonium
+0.000 : snapdragon
+0.000 : silverbush
+0.000 : pink-yellow dahlia
+Image flowers/test/51/image_03980.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+97.128 : petunia
+1.114 : pink primrose
+1.013 : tree mallow
+0.698 : balloon flower
+0.018 : hibiscus
+Image flowers/test/51/image_01388.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+99.998 : petunia
+0.001 : pelargonium
+0.000 : thorn apple
+0.000 : bearded iris
+0.000 : hibiscus
+Image flowers/test/51/image_03986.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+73.283 : petunia
+6.781 : sword lily
+5.121 : sweet william
+2.972 : hippeastrum
+1.900 : carnation
+Image flowers/test/51/image_01468.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+94.361 : petunia
+2.372 : thorn apple
+1.381 : bearded iris
+0.500 : snapdragon
+0.362 : pelargonium
+Image flowers/test/51/image_01370.jpg of a 'petunia' is predicted as follows
+Most probably: petunia
+Prediction is correct
+Probability  :  Flower
+45.402 : petunia
+40.078 : azalea
+5.566 : sword lily
+2.866 : watercress
+2.624 : hibiscus
+Image flowers/test/93/image_06037.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+96.953 : ball moss
+1.313 : sword lily
+0.344 : bolero deep blue
+0.279 : spring crocus
+0.213 : desert-rose
+Image flowers/test/93/image_06021.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+96.118 : ball moss
+2.352 : sword lily
+0.459 : desert-rose
+0.311 : red ginger
+0.181 : bolero deep blue
+Image flowers/test/93/image_06031.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+92.166 : ball moss
+1.852 : bird of paradise
+1.394 : fire lily
+1.089 : cyclamen
+0.983 : cape flower
+Image flowers/test/93/image_06033.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+97.105 : ball moss
+0.800 : red ginger
+0.499 : sword lily
+0.265 : spring crocus
+0.126 : bolero deep blue
+Image flowers/test/93/image_06017.jpg of a 'ball moss' is predicted as follows
+Most probably: ball moss
+Prediction is correct
+Probability  :  Flower
+98.780 : ball moss
+0.623 : sword lily
+0.408 : red ginger
+0.079 : desert-rose
+0.027 : sweet pea
+Image flowers/test/93/image_06014.jpg of a 'ball moss' is predicted as follows
+Most probably: sword lily
+Prediction is incorrect
+Probability  :  Flower
+33.303 : sword lily
+21.877 : mexican petunia
+15.132 : ball moss
+5.154 : morning glory
+3.891 : sweet pea
+Image flowers/test/53/image_03718.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+38.698 : primula
+31.707 : garden phlox
+4.116 : canterbury bells
+2.741 : japanese anemone
+2.618 : bolero deep blue
+Image flowers/test/53/image_03645.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+83.201 : primula
+6.731 : wallflower
+4.365 : garden phlox
+1.402 : english marigold
+1.137 : silverbush
+Image flowers/test/53/image_03652.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+54.435 : primula
+37.769 : wallflower
+4.461 : watercress
+0.873 : bougainvillea
+0.842 : petunia
+Image flowers/test/53/image_03662.jpg of a 'primula' is predicted as follows
+Most probably: bromelia
+Prediction is incorrect
+Probability  :  Flower
+16.363 : bromelia
+12.875 : pink-yellow dahlia
+10.502 : daffodil
+9.801 : gazania
+9.377 : primula
+Image flowers/test/53/image_03672.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+59.975 : primula
+18.128 : wallflower
+15.217 : californian poppy
+5.358 : english marigold
+0.643 : buttercup
+Image flowers/test/53/image_03653.jpg of a 'primula' is predicted as follows
+Most probably: wallflower
+Prediction is incorrect
+Probability  :  Flower
+97.442 : wallflower
+2.371 : primula
+0.038 : snapdragon
+0.029 : blanket flower
+0.029 : watercress
+Image flowers/test/53/image_03669.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+59.873 : primula
+12.524 : watercress
+10.673 : wallflower
+5.475 : petunia
+2.221 : californian poppy
+Image flowers/test/53/image_03689.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+99.371 : primula
+0.508 : pink-yellow dahlia
+0.069 : wallflower
+0.030 : english marigold
+0.007 : watercress
+Image flowers/test/53/image_03677.jpg of a 'primula' is predicted as follows
+Most probably: wallflower
+Prediction is incorrect
+Probability  :  Flower
+94.303 : wallflower
+2.819 : primula
+2.550 : snapdragon
+0.117 : trumpet creeper
+0.049 : desert-rose
+Image flowers/test/53/image_03714.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+96.177 : primula
+3.715 : wallflower
+0.046 : watercress
+0.025 : english marigold
+0.015 : californian poppy
+Image flowers/test/53/image_03717.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+90.226 : primula
+4.226 : silverbush
+0.674 : lotus lotus
+0.622 : daffodil
+0.436 : japanese anemone
+Image flowers/test/53/image_03712.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+57.179 : primula
+33.693 : frangipani
+2.411 : californian poppy
+0.973 : buttercup
+0.916 : spring crocus
+Image flowers/test/53/image_03724.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+68.034 : primula
+10.439 : garden phlox
+6.031 : wallflower
+2.558 : pink-yellow dahlia
+2.260 : grape hyacinth
+Image flowers/test/53/image_03649.jpg of a 'primula' is predicted as follows
+Most probably: primula
+Prediction is correct
+Probability  :  Flower
+83.916 : primula
+15.622 : wallflower
+0.326 : californian poppy
+0.048 : english marigold
+0.043 : watercress
+Image flowers/test/14/image_06091.jpg of a 'spear thistle' is predicted as follows
+Most probably: spear thistle
+Prediction is correct
+Probability  :  Flower
+99.655 : spear thistle
+0.252 : artichoke
+0.060 : alpine sea holly
+0.022 : globe thistle
+0.005 : king protea
+Image flowers/test/14/image_06083.jpg of a 'spear thistle' is predicted as follows
+Most probably: spear thistle
+Prediction is correct
+Probability  :  Flower
+91.123 : spear thistle
+7.435 : artichoke
+0.882 : globe thistle
+0.433 : alpine sea holly
+0.034 : king protea
+Image flowers/test/14/image_06052.jpg of a 'spear thistle' is predicted as follows
+Most probably: spear thistle
+Prediction is correct
+Probability  :  Flower
+96.033 : spear thistle
+2.482 : artichoke
+0.718 : globe thistle
+0.539 : colt's foot
+0.097 : alpine sea holly
+Image flowers/test/87/image_05488.jpg of a 'magnolia' is predicted as follows
+Most probably: rose
+Prediction is incorrect
+Probability  :  Flower
+35.133 : rose
+33.205 : magnolia
+7.405 : siam tulip
+6.802 : camellia
+2.582 : giant white arum lily
+Image flowers/test/87/image_05485.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+96.828 : magnolia
+1.580 : cyclamen
+1.038 : siam tulip
+0.178 : lotus lotus
+0.174 : giant white arum lily
+Image flowers/test/87/image_05493.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+98.400 : magnolia
+1.064 : cyclamen
+0.315 : giant white arum lily
+0.171 : siam tulip
+0.014 : sweet pea
+Image flowers/test/87/image_05462.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+99.832 : magnolia
+0.053 : giant white arum lily
+0.044 : cyclamen
+0.016 : siam tulip
+0.009 : thorn apple
+Image flowers/test/87/image_05466.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+99.174 : magnolia
+0.346 : cyclamen
+0.165 : bromelia
+0.147 : water lily
+0.057 : ruby-lipped cattleya
+Image flowers/test/87/image_05469.jpg of a 'magnolia' is predicted as follows
+Most probably: magnolia
+Prediction is correct
+Probability  :  Flower
+99.898 : magnolia
+0.081 : giant white arum lily
+0.015 : siam tulip
+0.004 : cyclamen
+0.001 : spring crocus
+Image flowers/test/5/image_05186.jpg of a 'english marigold' is predicted as follows
+Most probably: english marigold
+Prediction is correct
+Probability  :  Flower
+99.888 : english marigold
+0.051 : gazania
+0.027 : black-eyed susan
+0.014 : orange dahlia
+0.006 : common dandelion
+Image flowers/test/5/image_05159.jpg of a 'english marigold' is predicted as follows
+Most probably: barbeton daisy
+Prediction is incorrect
+Probability  :  Flower
+77.771 : barbeton daisy
+22.148 : english marigold
+0.040 : blanket flower
+0.013 : orange dahlia
+0.007 : oxeye daisy
+Image flowers/test/5/image_05169.jpg of a 'english marigold' is predicted as follows
+Most probably: english marigold
+Prediction is correct
+Probability  :  Flower
+37.638 : english marigold
+24.173 : common dandelion
+12.033 : black-eyed susan
+7.821 : colt's foot
+5.579 : gazania
+Image flowers/test/5/image_05166.jpg of a 'english marigold' is predicted as follows
+Most probably: english marigold
+Prediction is correct
+Probability  :  Flower
+88.758 : english marigold
+4.124 : barbeton daisy
+3.863 : orange dahlia
+1.128 : bishop of llandaff
+0.692 : corn poppy
+Image flowers/test/23/image_03454.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : blackberry lily
+0.000 : anthurium
+0.000 : mallow
+0.000 : toad lily
+Image flowers/test/23/image_03414.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+98.050 : fritillary
+0.348 : blackberry lily
+0.281 : toad lily
+0.240 : spring crocus
+0.123 : alpine sea holly
+Image flowers/test/23/image_03442.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+99.996 : fritillary
+0.001 : anthurium
+0.001 : blackberry lily
+0.000 : mallow
+0.000 : lenten rose
+Image flowers/test/23/image_03409.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : blackberry lily
+0.000 : anthurium
+0.000 : toad lily
+0.000 : mallow
+Image flowers/test/23/image_03382.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : mallow
+0.000 : lenten rose
+0.000 : monkshood
+0.000 : purple coneflower
+Image flowers/test/23/image_03390.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : mallow
+0.000 : toad lily
+0.000 : lenten rose
+0.000 : blackberry lily
+Image flowers/test/23/image_03440.jpg of a 'fritillary' is predicted as follows
+Most probably: fritillary
+Prediction is correct
+Probability  :  Flower
+100.000 : fritillary
+0.000 : toad lily
+0.000 : mallow
+0.000 : spring crocus
+0.000 : blackberry lily
+Image flowers/test/76/image_02550.jpg of a 'morning glory' is predicted as follows
+Most probably: petunia
+Prediction is incorrect
+Probability  :  Flower
+51.694 : petunia
+28.618 : morning glory
+8.405 : balloon flower
+3.636 : mexican petunia
+1.656 : pink primrose
+Image flowers/test/76/image_02479.jpg of a 'morning glory' is predicted as follows
+Most probably: morning glory
+Prediction is correct
+Probability  :  Flower
+99.988 : morning glory
+0.005 : petunia
+0.004 : tree mallow
+0.001 : balloon flower
+0.000 : hibiscus
+Image flowers/test/76/image_02484.jpg of a 'morning glory' is predicted as follows
+Most probably: morning glory
+Prediction is correct
+Probability  :  Flower
+99.570 : morning glory
+0.186 : petunia
+0.083 : balloon flower
+0.064 : pelargonium
+0.035 : tree mallow
+Image flowers/test/76/image_02472.jpg of a 'morning glory' is predicted as follows
+Most probably: morning glory
+Prediction is correct
+Probability  :  Flower
+72.315 : morning glory
+18.693 : balloon flower
+1.181 : bougainvillea
+1.079 : passion flower
+0.576 : ball moss
+Image flowers/test/70/image_05308.jpg of a 'tree poppy' is predicted as follows
+Most probably: tree poppy
+Prediction is correct
+Probability  :  Flower
+99.778 : tree poppy
+0.073 : mexican aster
+0.025 : hibiscus
+0.020 : english marigold
+0.013 : windflower
+Image flowers/test/70/image_05324.jpg of a 'tree poppy' is predicted as follows
+Most probably: tree poppy
+Prediction is correct
+Probability  :  Flower
+94.887 : tree poppy
+0.849 : carnation
+0.537 : prince of wales feathers
+0.496 : pincushion flower
+0.420 : marigold
+Image flowers/test/70/image_05331.jpg of a 'tree poppy' is predicted as follows
+Most probably: tree poppy
+Prediction is correct
+Probability  :  Flower
+99.735 : tree poppy
+0.085 : bearded iris
+0.034 : oxeye daisy
+0.033 : sunflower
+0.028 : windflower
+Image flowers/test/70/image_05330.jpg of a 'tree poppy' is predicted as follows
+Most probably: tree poppy
+Prediction is correct
+Probability  :  Flower
+98.860 : tree poppy
+0.922 : oxeye daisy
+0.130 : sunflower
+0.031 : japanese anemone
+0.017 : barbeton daisy
+Image flowers/test/42/image_05696.jpg of a 'daffodil' is predicted as follows
+Most probably: daffodil
+Prediction is correct
+Probability  :  Flower
+93.202 : daffodil
+4.064 : yellow iris
+0.712 : canna lily
+0.394 : sword lily
+0.353 : bearded iris
+Image flowers/test/42/image_05711.jpg of a 'daffodil' is predicted as follows
+Most probably: daffodil
+Prediction is correct
+Probability  :  Flower
+99.933 : daffodil
+0.046 : buttercup
+0.010 : yellow iris
+0.008 : lotus lotus
+0.001 : windflower
+Image flowers/test/42/image_05730.jpg of a 'daffodil' is predicted as follows
+Most probably: californian poppy
+Prediction is incorrect
+Probability  :  Flower
+31.233 : californian poppy
+16.326 : wallflower
+13.092 : fire lily
+7.273 : yellow iris
+4.551 : globe-flower
